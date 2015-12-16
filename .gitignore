@@ -8,3 +8,8 @@ PluginEnvironmentSBCLLinuxx86/bin/
 PluginEnvironmentSBCLMacIntel/bin/
 PluginEnvironmentSBCLMacPPC/bin/
 PluginEnvironmentSBCLWin32x86/bin/
+*~
+*#
+.#*
+*.bak
+
